@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>英検クイズ</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="home">
+    <h1>英検クイズホーム</h1>
+    <button id="start-new">新しい問題に挑戦</button>
+    <button id="start-correct">正解した問題に挑戦</button>
+    <button id="start-wrong">間違えた問題に挑戦</button>
+  </div>
+
+  <div id="quiz" style="display:none;">
+    <div id="question"></div>
+    <div id="choices"></div>
+    <div id="result"></div>
+    <button id="next">次へ</button>
+  </div>
+
+  <div id="result-screen" style="display:none;">
+    <h2>結果</h2>
+    <div>
+      <h3>正解した問題</h3>
+      <ul id="correct-list"></ul>
+    </div>
+    <div>
+      <h3>間違えた問題</h3>
+      <ul id="wrong-list"></ul>
+    </div>
+    <button id="review">復習する</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
