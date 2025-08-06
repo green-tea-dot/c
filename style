@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2em;
+  background-color: #f0f0f0;
+}
+button {
+  margin: 1em;
+  padding: 1em;
+  font-size: 1em;
+  border-radius: 10px;
+}
+.choice {
+  display: block;
+  margin: 0.5em auto;
+}
+.correct {
+  background-color: #c8e6c9;
+}
+.wrong {
+  background-color: #ffcdd2;
+}
