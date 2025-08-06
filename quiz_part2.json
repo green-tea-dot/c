@@ -1,0 +1,10002 @@
+[
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "認める",
+      "進歩",
+      "実際の",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "実際の",
+      "習得する",
+      "助言",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "調整する",
+      "同行する",
+      "余裕がある",
+      "能力"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "同行する",
+      "感心する",
+      "できる",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "進歩",
+      "調整する",
+      "上に",
+      "影響する"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "加える",
+      "採用する",
+      "利点",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "調整する",
+      "活動",
+      "実際の",
+      "後で"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "採用する",
+      "再び",
+      "できる",
+      "後で"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "受け入れる",
+      "再び",
+      "利点",
+      "影響する"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "採用する",
+      "助言",
+      "認める",
+      "認める"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "大人",
+      "上に",
+      "上に",
+      "口座"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "住所",
+      "約",
+      "能力",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "達成する",
+      "事故",
+      "認める",
+      "上に"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "実際の",
+      "影響する",
+      "再び",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "影響する",
+      "口座",
+      "事故",
+      "住所"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "上に",
+      "～によると",
+      "事故",
+      "活動"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "利点",
+      "加える",
+      "採用する",
+      "助言"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "事故",
+      "再び",
+      "同行する",
+      "影響する"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "約",
+      "採用する",
+      "約",
+      "達成する"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "住所",
+      "住所",
+      "大人",
+      "同行する"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "能力",
+      "実際の",
+      "調整する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "大人",
+      "正確な",
+      "助言",
+      "住所"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "認める",
+      "同行する",
+      "実際の",
+      "感心する"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "放棄する",
+      "口座",
+      "同行する",
+      "採用する"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "恐れて",
+      "利点",
+      "実際の",
+      "加える"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "正確な",
+      "恐れて",
+      "感心する",
+      "習得する"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "利点",
+      "助言",
+      "活動",
+      "採用する"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "達成する",
+      "大人",
+      "正確な",
+      "採用する"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "実際の",
+      "後で",
+      "余裕がある",
+      "実際の"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "大人",
+      "感心する",
+      "能力",
+      "認める"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "事故",
+      "余裕がある",
+      "事故",
+      "～によると"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "約",
+      "～によると",
+      "達成する",
+      "できる"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "放棄する",
+      "認める",
+      "できる",
+      "口座"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "口座",
+      "助言",
+      "能力",
+      "調整する"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "進歩",
+      "同行する",
+      "加える",
+      "能力"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "口座",
+      "習得する",
+      "感心する",
+      "～によると"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "採用する",
+      "影響する",
+      "恐れて",
+      "影響する"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "進歩",
+      "約",
+      "できる",
+      "住所"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "受け入れる",
+      "後で",
+      "習得する",
+      "習得する"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "同行する",
+      "感心する",
+      "上に",
+      "進歩"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "住所",
+      "大人",
+      "実際の",
+      "採用する"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "達成する",
+      "影響する",
+      "認める",
+      "再び"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "できる",
+      "達成する",
+      "認める",
+      "進歩"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "進歩",
+      "進歩",
+      "恐れて",
+      "加える"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "受け入れる",
+      "影響する",
+      "実際の",
+      "上に"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "調整する",
+      "約",
+      "能力",
+      "調整する"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "放棄する",
+      "事故",
+      "能力",
+      "上に"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "再び",
+      "影響する",
+      "助言",
+      "住所"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "認める",
+      "活動",
+      "再び",
+      "習得する"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "余裕がある",
+      "口座",
+      "受け入れる",
+      "正確な"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "住所",
+      "認める",
+      "採用する",
+      "採用する"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "適応する",
+      "再び",
+      "余裕がある",
+      "できる"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "調整する",
+      "約",
+      "認める",
+      "助言"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "影響する",
+      "恐れて",
+      "約",
+      "大人"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "放棄する",
+      "恐れて",
+      "適応する",
+      "上に"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "約",
+      "上に",
+      "能力",
+      "同行する"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "できる",
+      "恐れて",
+      "放棄する",
+      "活動"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "上に",
+      "採用する",
+      "進歩",
+      "達成する"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "加える",
+      "能力",
+      "再び",
+      "感心する"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "採用する",
+      "再び",
+      "できる",
+      "加える"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "上に",
+      "口座",
+      "採用する",
+      "後で"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "適応する",
+      "感心する",
+      "習得する",
+      "住所"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "上に",
+      "実際の",
+      "後で",
+      "できる"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "再び",
+      "適応する",
+      "後で",
+      "進歩"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "活動",
+      "実際の",
+      "感心する",
+      "再び"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "活動",
+      "放棄する",
+      "能力",
+      "後で"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "約",
+      "住所",
+      "能力",
+      "適応する"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "調整する",
+      "達成する",
+      "影響する",
+      "実際の"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "事故",
+      "放棄する",
+      "利点",
+      "適応する"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "大人",
+      "口座",
+      "採用する",
+      "達成する"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "放棄する",
+      "できる",
+      "上に",
+      "同行する"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "恐れて",
+      "実際の",
+      "助言",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "助言",
+      "進歩",
+      "約",
+      "採用する"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "事故",
+      "認める",
+      "正確な",
+      "正確な"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "放棄する",
+      "放棄する",
+      "同行する",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "恐れて",
+      "達成する",
+      "加える",
+      "採用する"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "再び",
+      "利点",
+      "恐れて",
+      "達成する"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "適応する",
+      "調整する",
+      "進歩",
+      "正確な"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "後で",
+      "達成する",
+      "感心する",
+      "進歩"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "再び",
+      "活動",
+      "認める",
+      "できる"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "助言",
+      "再び",
+      "達成する",
+      "正確な"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "実際の",
+      "助言",
+      "後で",
+      "約"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "習得する",
+      "利点",
+      "調整する",
+      "加える"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "影響する",
+      "後で",
+      "上に",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "調整する",
+      "余裕がある",
+      "調整する",
+      "できる"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "大人",
+      "放棄する",
+      "恐れて",
+      "活動"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "活動",
+      "放棄する",
+      "大人",
+      "約"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "口座",
+      "感心する",
+      "助言",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "できる",
+      "調整する",
+      "大人",
+      "利点"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "住所",
+      "達成する",
+      "採用する",
+      "能力"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "利点",
+      "恐れて",
+      "同行する",
+      "習得する"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "正確な",
+      "助言",
+      "加える",
+      "できる"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "実際の",
+      "感心する",
+      "口座",
+      "約"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "後で",
+      "進歩",
+      "利点",
+      "調整する"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "加える",
+      "能力",
+      "活動",
+      "約"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "習得する",
+      "達成する",
+      "能力",
+      "正確な"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "達成する",
+      "恐れて",
+      "恐れて",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "大人",
+      "加える",
+      "～によると",
+      "達成する"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "調整する",
+      "採用する",
+      "再び",
+      "同行する"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "適応する",
+      "～によると",
+      "習得する",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "余裕がある",
+      "放棄する",
+      "恐れて",
+      "助言"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "達成する",
+      "感心する",
+      "加える",
+      "適応する"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "同行する",
+      "正確な",
+      "利点",
+      "活動"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "同行する",
+      "適応する",
+      "利点",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "～によると",
+      "適応する",
+      "認める",
+      "進歩"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "助言",
+      "後で",
+      "受け入れる",
+      "実際の"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "感心する",
+      "後で",
+      "調整する",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "調整する",
+      "放棄する",
+      "事故",
+      "住所"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "感心する",
+      "～によると",
+      "できる",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "後で",
+      "できる",
+      "影響する",
+      "～によると"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "放棄する",
+      "上に",
+      "～によると",
+      "上に"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "進歩",
+      "影響する",
+      "習得する",
+      "実際の"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "能力",
+      "進歩",
+      "受け入れる",
+      "習得する"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "助言",
+      "影響する",
+      "同行する",
+      "約"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "後で",
+      "実際の",
+      "受け入れる",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "受け入れる",
+      "認める",
+      "住所",
+      "同行する"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "活動",
+      "助言",
+      "事故",
+      "適応する"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "利点",
+      "恐れて",
+      "同行する",
+      "再び"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "利点",
+      "正確な",
+      "余裕がある",
+      "住所"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "活動",
+      "利点",
+      "できる",
+      "後で"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "活動",
+      "～によると",
+      "正確な",
+      "感心する"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "余裕がある",
+      "同行する",
+      "感心する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "習得する",
+      "採用する",
+      "後で",
+      "上に"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "再び",
+      "適応する",
+      "約",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "感心する",
+      "余裕がある",
+      "感心する",
+      "習得する"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "活動",
+      "後で",
+      "再び",
+      "認める"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "助言",
+      "余裕がある",
+      "放棄する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "口座",
+      "感心する",
+      "後で",
+      "活動"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "活動",
+      "適応する",
+      "住所",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "余裕がある",
+      "約",
+      "加える",
+      "達成する"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "口座",
+      "放棄する",
+      "助言",
+      "達成する"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "採用する",
+      "上に",
+      "認める",
+      "利点"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "できる",
+      "採用する",
+      "実際の",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "受け入れる",
+      "感心する",
+      "上に",
+      "採用する"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "実際の",
+      "～によると",
+      "習得する",
+      "上に"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "住所",
+      "認める",
+      "上に",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "能力",
+      "感心する",
+      "進歩",
+      "口座"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "後で",
+      "認める",
+      "利点",
+      "利点"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "同行する",
+      "利点",
+      "認める",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "調整する",
+      "適応する",
+      "後で",
+      "上に"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "住所",
+      "認める",
+      "習得する",
+      "事故"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "～によると",
+      "採用する",
+      "同行する",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "利点",
+      "認める",
+      "加える",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "加える",
+      "恐れて",
+      "感心する",
+      "上に"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "～によると",
+      "事故",
+      "調整する",
+      "実際の"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "利点",
+      "余裕がある",
+      "事故",
+      "口座"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "上に",
+      "再び",
+      "調整する",
+      "口座"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "活動",
+      "余裕がある",
+      "適応する",
+      "助言"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "放棄する",
+      "認める",
+      "再び",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "受け入れる",
+      "習得する",
+      "後で",
+      "加える"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "実際の",
+      "習得する",
+      "約",
+      "実際の"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "採用する",
+      "調整する",
+      "正確な",
+      "口座"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "正確な",
+      "活動",
+      "感心する",
+      "感心する"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "加える",
+      "認める",
+      "放棄する",
+      "助言"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "実際の",
+      "恐れて",
+      "放棄する",
+      "適応する"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "習得する",
+      "～によると",
+      "～によると",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "大人",
+      "同行する",
+      "実際の",
+      "加える"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "採用する",
+      "上に",
+      "能力",
+      "再び"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "感心する",
+      "上に",
+      "恐れて",
+      "習得する"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "助言",
+      "適応する",
+      "上に",
+      "影響する"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "放棄する",
+      "～によると",
+      "再び",
+      "適応する"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "影響する",
+      "進歩",
+      "能力",
+      "加える"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "余裕がある",
+      "影響する",
+      "同行する",
+      "同行する"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "同行する",
+      "感心する",
+      "認める",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "大人",
+      "感心する",
+      "同行する",
+      "後で"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "調整する",
+      "口座",
+      "住所",
+      "達成する"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "～によると",
+      "約",
+      "できる",
+      "同行する"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "適応する",
+      "影響する",
+      "実際の",
+      "適応する"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "認める",
+      "加える",
+      "できる",
+      "加える"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "正確な",
+      "再び",
+      "恐れて",
+      "実際の"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "同行する",
+      "実際の",
+      "加える",
+      "住所"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "放棄する",
+      "影響する",
+      "習得する",
+      "後で"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "住所",
+      "再び",
+      "適応する",
+      "助言"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "恐れて",
+      "受け入れる",
+      "活動",
+      "採用する"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "大人",
+      "正確な",
+      "上に",
+      "活動"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "～によると",
+      "口座",
+      "利点",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "調整する",
+      "正確な",
+      "習得する",
+      "感心する"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "適応する",
+      "後で",
+      "感心する",
+      "住所"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "余裕がある",
+      "同行する",
+      "習得する",
+      "調整する"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "適応する",
+      "習得する",
+      "採用する",
+      "～によると"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "後で",
+      "助言",
+      "採用する",
+      "習得する"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "適応する",
+      "恐れて",
+      "認める",
+      "影響する"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "住所",
+      "同行する",
+      "加える",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "大人",
+      "採用する",
+      "調整する",
+      "活動"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "加える",
+      "活動",
+      "～によると",
+      "後で"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "受け入れる",
+      "～によると",
+      "後で",
+      "加える"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "加える",
+      "大人",
+      "感心する",
+      "大人"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "習得する",
+      "後で",
+      "事故",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "調整する",
+      "上に",
+      "助言",
+      "～によると"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "能力",
+      "習得する",
+      "再び",
+      "約"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "約",
+      "影響する",
+      "習得する",
+      "達成する"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "大人",
+      "進歩",
+      "上に",
+      "約"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "助言",
+      "放棄する",
+      "後で",
+      "実際の"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "利点",
+      "～によると",
+      "加える",
+      "採用する"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "住所",
+      "～によると",
+      "同行する",
+      "口座"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "事故",
+      "余裕がある",
+      "できる",
+      "採用する"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "上に",
+      "加える",
+      "調整する",
+      "上に"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "正確な",
+      "加える",
+      "適応する",
+      "調整する"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "恐れて",
+      "活動",
+      "利点",
+      "進歩"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "利点",
+      "事故",
+      "習得する",
+      "達成する"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "感心する",
+      "受け入れる",
+      "活動",
+      "できる"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "認める",
+      "感心する",
+      "助言",
+      "大人"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "助言",
+      "後で",
+      "達成する",
+      "～によると"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "同行する",
+      "正確な",
+      "住所",
+      "能力"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "加える",
+      "助言",
+      "できる",
+      "口座"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "恐れて",
+      "達成する",
+      "受け入れる",
+      "後で"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "上に",
+      "後で",
+      "同行する",
+      "認める"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "大人",
+      "習得する",
+      "適応する",
+      "再び"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "適応する",
+      "達成する",
+      "影響する",
+      "再び"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "大人",
+      "習得する",
+      "約",
+      "口座"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "活動",
+      "活動",
+      "影響する",
+      "加える"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "適応する",
+      "放棄する",
+      "感心する",
+      "～によると"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "実際の",
+      "能力",
+      "口座",
+      "後で"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "再び",
+      "上に",
+      "できる",
+      "達成する"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "口座",
+      "実際の",
+      "受け入れる",
+      "適応する"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "適応する",
+      "感心する",
+      "活動",
+      "達成する"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "習得する",
+      "後で",
+      "助言",
+      "大人"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "認める",
+      "能力",
+      "助言",
+      "進歩"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "正確な",
+      "約",
+      "活動",
+      "助言"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "利点",
+      "～によると",
+      "約",
+      "認める"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "後で",
+      "同行する",
+      "上に",
+      "実際の"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "同行する",
+      "感心する",
+      "正確な",
+      "大人"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "住所",
+      "適応する",
+      "約",
+      "口座"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "習得する",
+      "影響する",
+      "能力",
+      "活動"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "活動",
+      "恐れて",
+      "余裕がある",
+      "口座"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "恐れて",
+      "適応する",
+      "放棄する",
+      "後で"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "実際の",
+      "放棄する",
+      "習得する",
+      "上に"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "～によると",
+      "習得する",
+      "事故",
+      "調整する"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "感心する",
+      "進歩",
+      "実際の",
+      "後で"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "～によると",
+      "適応する",
+      "できる",
+      "進歩"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "達成する",
+      "実際の",
+      "正確な",
+      "影響する"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "加える",
+      "能力",
+      "能力",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "恐れて",
+      "認める",
+      "後で",
+      "感心する"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "後で",
+      "口座",
+      "恐れて",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "認める",
+      "大人",
+      "加える",
+      "習得する"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "再び",
+      "約",
+      "調整する",
+      "約"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "適応する",
+      "適応する",
+      "口座",
+      "大人"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "適応する",
+      "調整する",
+      "後で",
+      "達成する"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "口座",
+      "助言",
+      "適応する",
+      "認める"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "同行する",
+      "適応する",
+      "認める",
+      "調整する"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "正確な",
+      "助言",
+      "約",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "放棄する",
+      "できる",
+      "加える",
+      "約"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "調整する",
+      "住所",
+      "受け入れる",
+      "影響する"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "実際の",
+      "放棄する",
+      "実際の",
+      "加える"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "実際の",
+      "進歩",
+      "大人",
+      "感心する"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "余裕がある",
+      "能力",
+      "認める",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "影響する",
+      "助言",
+      "活動",
+      "認める"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "住所",
+      "活動",
+      "余裕がある",
+      "再び"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "認める",
+      "達成する",
+      "放棄する",
+      "調整する"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "利点",
+      "住所",
+      "認める",
+      "影響する"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "能力",
+      "恐れて",
+      "大人",
+      "事故"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "感心する",
+      "住所",
+      "事故",
+      "口座"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "認める",
+      "～によると",
+      "受け入れる",
+      "上に"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "大人",
+      "活動",
+      "能力",
+      "影響する"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "実際の",
+      "加える",
+      "後で",
+      "上に"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "進歩",
+      "住所",
+      "習得する",
+      "口座"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "実際の",
+      "採用する",
+      "影響する",
+      "口座"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "住所",
+      "習得する",
+      "進歩",
+      "採用する"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "同行する",
+      "できる",
+      "助言",
+      "上に"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "影響する",
+      "恐れて",
+      "再び",
+      "進歩"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "～によると",
+      "達成する",
+      "放棄する",
+      "進歩"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "できる",
+      "～によると",
+      "口座",
+      "助言"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "実際の",
+      "進歩",
+      "活動",
+      "加える"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "再び",
+      "できる",
+      "能力",
+      "感心する"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "助言",
+      "採用する",
+      "実際の",
+      "感心する"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "利点",
+      "恐れて",
+      "同行する",
+      "影響する"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "認める",
+      "適応する",
+      "加える",
+      "実際の"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "同行する",
+      "受け入れる",
+      "約",
+      "再び"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "助言",
+      "採用する",
+      "後で",
+      "正確な"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "住所",
+      "採用する",
+      "感心する",
+      "再び"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "達成する",
+      "～によると",
+      "活動",
+      "採用する"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "進歩",
+      "余裕がある",
+      "影響する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "認める",
+      "～によると",
+      "活動",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "利点",
+      "余裕がある",
+      "後で",
+      "利点"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "～によると",
+      "能力",
+      "認める",
+      "同行する"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "同行する",
+      "余裕がある",
+      "約",
+      "再び"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "上に",
+      "適応する",
+      "事故",
+      "加える"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "約",
+      "認める",
+      "採用する",
+      "能力"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "口座",
+      "口座",
+      "～によると",
+      "できる"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "習得する",
+      "事故",
+      "正確な",
+      "口座"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "～によると",
+      "感心する",
+      "習得する",
+      "大人"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "進歩",
+      "事故",
+      "感心する",
+      "再び"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "再び",
+      "認める",
+      "習得する",
+      "調整する"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "習得する",
+      "正確な",
+      "利点",
+      "できる"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "適応する",
+      "進歩",
+      "適応する",
+      "後で"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "加える",
+      "口座",
+      "恐れて",
+      "習得する"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "受け入れる",
+      "達成する",
+      "加える",
+      "影響する"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "感心する",
+      "余裕がある",
+      "後で",
+      "上に"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "正確な",
+      "大人",
+      "余裕がある",
+      "利点"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "感心する",
+      "～によると",
+      "達成する",
+      "採用する"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "受け入れる",
+      "調整する",
+      "進歩",
+      "加える"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "能力",
+      "後で",
+      "加える",
+      "再び"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "～によると",
+      "恐れて",
+      "正確な",
+      "上に"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "習得する",
+      "後で",
+      "実際の",
+      "認める"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "感心する",
+      "事故",
+      "余裕がある",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "適応する",
+      "達成する",
+      "～によると",
+      "住所"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "実際の",
+      "活動",
+      "上に",
+      "適応する"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "できる",
+      "口座",
+      "進歩",
+      "～によると"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "利点",
+      "再び",
+      "住所",
+      "習得する"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "習得する",
+      "大人",
+      "調整する",
+      "感心する"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "適応する",
+      "影響する",
+      "達成する",
+      "住所"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "再び",
+      "認める",
+      "活動",
+      "適応する"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "口座",
+      "実際の",
+      "活動",
+      "利点"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "受け入れる",
+      "恐れて",
+      "採用する",
+      "能力"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "活動",
+      "後で",
+      "調整する",
+      "進歩"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "住所",
+      "口座",
+      "後で",
+      "～によると"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "習得する",
+      "影響する",
+      "加える",
+      "口座"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "認める",
+      "～によると",
+      "影響する",
+      "達成する"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "適応する",
+      "進歩",
+      "事故",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "採用する",
+      "感心する",
+      "上に",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "採用する",
+      "～によると",
+      "進歩",
+      "住所"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "正確な",
+      "恐れて",
+      "認める",
+      "活動"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "達成する",
+      "調整する",
+      "活動",
+      "助言"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "利点",
+      "影響する",
+      "習得する",
+      "加える"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "同行する",
+      "感心する",
+      "後で",
+      "加える"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "感心する",
+      "放棄する",
+      "約",
+      "事故"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "調整する",
+      "事故",
+      "習得する",
+      "利点"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "約",
+      "実際の",
+      "～によると",
+      "習得する"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "活動",
+      "後で",
+      "再び",
+      "達成する"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "放棄する",
+      "恐れて",
+      "再び",
+      "習得する"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "再び",
+      "受け入れる",
+      "～によると",
+      "能力"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "口座",
+      "感心する",
+      "住所",
+      "正確な"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "同行する",
+      "恐れて",
+      "再び",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "実際の",
+      "事故",
+      "利点",
+      "できる"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "実際の",
+      "達成する",
+      "住所",
+      "調整する"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "受け入れる",
+      "大人",
+      "加える",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "利点",
+      "上に",
+      "進歩",
+      "正確な"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "加える",
+      "約",
+      "口座",
+      "実際の"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "受け入れる",
+      "採用する",
+      "後で",
+      "口座"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "実際の",
+      "事故",
+      "同行する",
+      "同行する"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "後で",
+      "影響する",
+      "適応する",
+      "助言"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "達成する",
+      "影響する",
+      "正確な",
+      "事故"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "認める",
+      "調整する",
+      "助言",
+      "住所"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "～によると",
+      "活動",
+      "利点",
+      "適応する"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "感心する",
+      "習得する",
+      "活動",
+      "上に"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "習得する",
+      "受け入れる",
+      "住所",
+      "進歩"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "約",
+      "影響する",
+      "上に",
+      "事故"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "口座",
+      "調整する",
+      "同行する",
+      "～によると"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "活動",
+      "できる",
+      "恐れて",
+      "適応する"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "適応する",
+      "上に",
+      "調整する",
+      "適応する"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "進歩",
+      "正確な",
+      "後で",
+      "同行する"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "適応する",
+      "能力",
+      "事故",
+      "採用する"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "再び",
+      "正確な",
+      "放棄する",
+      "できる"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "できる",
+      "正確な",
+      "恐れて",
+      "認める"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "達成する",
+      "進歩",
+      "習得する",
+      "活動"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "事故",
+      "できる",
+      "達成する",
+      "利点"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "利点",
+      "放棄する",
+      "再び",
+      "約"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "できる",
+      "受け入れる",
+      "感心する",
+      "採用する"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "活動",
+      "後で",
+      "受け入れる",
+      "同行する"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "加える",
+      "達成する",
+      "加える",
+      "調整する"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "後で",
+      "認める",
+      "進歩",
+      "～によると"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "認める",
+      "習得する",
+      "放棄する",
+      "口座"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "適応する",
+      "同行する",
+      "住所",
+      "後で"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "助言",
+      "習得する",
+      "余裕がある",
+      "能力"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "助言",
+      "感心する",
+      "進歩",
+      "助言"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "約",
+      "助言",
+      "後で",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "正確な",
+      "受け入れる",
+      "利点",
+      "実際の"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "後で",
+      "習得する",
+      "同行する",
+      "住所"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "口座",
+      "放棄する",
+      "活動",
+      "できる"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "進歩",
+      "上に",
+      "約",
+      "大人"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "再び",
+      "恐れて",
+      "能力",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "住所",
+      "約",
+      "同行する",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "助言",
+      "適応する",
+      "住所",
+      "約"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "習得する",
+      "事故",
+      "調整する",
+      "口座"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "住所",
+      "認める",
+      "影響する",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "恐れて",
+      "助言",
+      "上に",
+      "～によると"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "同行する",
+      "後で",
+      "住所",
+      "能力"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "約",
+      "認める",
+      "できる",
+      "実際の"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "達成する",
+      "住所",
+      "採用する",
+      "約"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "余裕がある",
+      "達成する",
+      "事故",
+      "達成する"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "進歩",
+      "口座",
+      "能力",
+      "実際の"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "恐れて",
+      "約",
+      "感心する",
+      "実際の"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "利点",
+      "影響する",
+      "認める",
+      "口座"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "恐れて",
+      "後で",
+      "口座",
+      "できる"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "後で",
+      "受け入れる",
+      "放棄する",
+      "影響する"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "影響する",
+      "能力",
+      "上に",
+      "口座"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "実際の",
+      "上に",
+      "適応する",
+      "加える"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "加える",
+      "実際の",
+      "利点",
+      "口座"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "適応する",
+      "利点",
+      "受け入れる",
+      "口座"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "加える",
+      "恐れて",
+      "大人",
+      "約"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "適応する",
+      "～によると",
+      "達成する",
+      "利点"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "余裕がある",
+      "進歩",
+      "利点",
+      "能力"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "住所",
+      "適応する",
+      "恐れて",
+      "実際の"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "口座",
+      "実際の",
+      "感心する",
+      "達成する"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "認める",
+      "事故",
+      "加える",
+      "約"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "上に",
+      "再び",
+      "放棄する",
+      "進歩"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "利点",
+      "習得する",
+      "できる",
+      "進歩"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "上に",
+      "習得する",
+      "約",
+      "事故"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "～によると",
+      "調整する",
+      "認める",
+      "再び"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "できる",
+      "能力",
+      "大人",
+      "達成する"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "受け入れる",
+      "約",
+      "影響する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "口座",
+      "正確な",
+      "恐れて",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "影響する",
+      "できる",
+      "余裕がある",
+      "認める"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "助言",
+      "能力",
+      "加える",
+      "認める"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "事故",
+      "能力",
+      "余裕がある",
+      "住所"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "上に",
+      "放棄する",
+      "再び",
+      "後で"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "～によると",
+      "上に",
+      "余裕がある",
+      "調整する"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "採用する",
+      "口座",
+      "同行する",
+      "後で"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "恐れて",
+      "達成する",
+      "能力",
+      "認める"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "活動",
+      "放棄する",
+      "採用する",
+      "認める"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "調整する",
+      "進歩",
+      "上に",
+      "加える"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "恐れて",
+      "できる",
+      "同行する",
+      "能力"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "実際の",
+      "事故",
+      "正確な",
+      "住所"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "助言",
+      "利点",
+      "正確な",
+      "できる"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "採用する",
+      "活動",
+      "影響する",
+      "進歩"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "達成する",
+      "認める",
+      "事故",
+      "再び"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "大人",
+      "再び",
+      "口座",
+      "利点"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "実際の",
+      "進歩",
+      "口座",
+      "影響する"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "放棄する",
+      "大人",
+      "余裕がある",
+      "約"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "認める",
+      "住所",
+      "習得する",
+      "調整する"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "影響する",
+      "正確な",
+      "再び",
+      "できる"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "同行する",
+      "後で",
+      "達成する",
+      "感心する"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "余裕がある",
+      "能力",
+      "適応する",
+      "できる"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "上に",
+      "正確な",
+      "助言",
+      "能力"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "習得する",
+      "放棄する",
+      "再び",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "できる",
+      "大人",
+      "できる",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "実際の",
+      "感心する",
+      "利点",
+      "進歩"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "住所",
+      "影響する",
+      "余裕がある",
+      "利点"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "感心する",
+      "～によると",
+      "影響する",
+      "利点"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "認める",
+      "口座",
+      "能力",
+      "活動"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "口座",
+      "恐れて",
+      "受け入れる",
+      "口座"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "受け入れる",
+      "感心する",
+      "再び",
+      "大人"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "正確な",
+      "実際の",
+      "加える",
+      "事故"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "調整する",
+      "活動",
+      "達成する",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "進歩",
+      "口座",
+      "住所",
+      "約"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "～によると",
+      "同行する",
+      "受け入れる",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "助言",
+      "加える",
+      "調整する",
+      "達成する"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "口座",
+      "～によると",
+      "加える",
+      "認める"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "実際の",
+      "約",
+      "正確な",
+      "再び"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "加える",
+      "再び",
+      "住所",
+      "感心する"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "上に",
+      "適応する",
+      "調整する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "大人",
+      "上に",
+      "感心する",
+      "上に"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "達成する",
+      "影響する",
+      "実際の",
+      "調整する"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "感心する",
+      "～によると",
+      "習得する",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "利点",
+      "住所",
+      "大人",
+      "採用する"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "助言",
+      "正確な",
+      "後で",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "進歩",
+      "影響する",
+      "後で",
+      "習得する"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "実際の",
+      "採用する",
+      "同行する",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "～によると",
+      "約",
+      "活動",
+      "正確な"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "調整する",
+      "口座",
+      "放棄する",
+      "採用する"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "大人",
+      "住所",
+      "上に",
+      "～によると"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "利点",
+      "進歩",
+      "再び",
+      "口座"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "影響する",
+      "能力",
+      "放棄する",
+      "採用する"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "大人",
+      "正確な",
+      "再び",
+      "助言"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "加える",
+      "大人",
+      "同行する",
+      "能力"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "正確な",
+      "上に",
+      "能力",
+      "同行する"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "できる",
+      "口座",
+      "達成する",
+      "認める"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "約",
+      "進歩",
+      "実際の",
+      "能力"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "住所",
+      "上に",
+      "影響する",
+      "感心する"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "能力",
+      "感心する",
+      "余裕がある",
+      "事故"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "再び",
+      "実際の",
+      "約",
+      "後で"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "恐れて",
+      "約",
+      "適応する",
+      "加える"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "上に",
+      "できる",
+      "再び",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "習得する",
+      "実際の",
+      "適応する",
+      "能力"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "再び",
+      "能力",
+      "感心する",
+      "助言"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "影響する",
+      "上に",
+      "放棄する",
+      "口座"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "適応する",
+      "放棄する",
+      "事故",
+      "加える"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "進歩",
+      "習得する",
+      "助言",
+      "調整する"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "影響する",
+      "後で",
+      "能力",
+      "助言"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "達成する",
+      "住所",
+      "採用する",
+      "実際の"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "利点",
+      "採用する",
+      "～によると",
+      "～によると"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "放棄する",
+      "進歩",
+      "約",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "余裕がある",
+      "住所",
+      "大人",
+      "進歩"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "助言",
+      "認める",
+      "感心する",
+      "活動"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "～によると",
+      "受け入れる",
+      "達成する",
+      "調整する"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "同行する",
+      "達成する",
+      "達成する",
+      "影響する"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "習得する",
+      "利点",
+      "事故",
+      "採用する"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "調整する",
+      "認める",
+      "～によると",
+      "上に"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "口座",
+      "受け入れる",
+      "影響する",
+      "活動"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "余裕がある",
+      "上に",
+      "～によると",
+      "後で"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "影響する",
+      "受け入れる",
+      "認める",
+      "正確な"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "再び",
+      "加える",
+      "利点",
+      "影響する"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "上に",
+      "後で",
+      "放棄する",
+      "大人"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "実際の",
+      "感心する",
+      "加える",
+      "感心する"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "～によると",
+      "住所",
+      "助言",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "活動",
+      "余裕がある",
+      "恐れて",
+      "正確な"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "利点",
+      "再び",
+      "利点",
+      "達成する"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "再び",
+      "できる",
+      "余裕がある",
+      "利点"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "採用する",
+      "達成する",
+      "助言",
+      "影響する"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "加える",
+      "大人",
+      "余裕がある",
+      "達成する"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "～によると",
+      "進歩",
+      "事故",
+      "できる"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "できる",
+      "同行する",
+      "同行する",
+      "～によると"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "再び",
+      "適応する",
+      "受け入れる",
+      "習得する"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "利点",
+      "恐れて",
+      "活動",
+      "約"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "習得する",
+      "感心する",
+      "できる",
+      "能力"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "適応する",
+      "大人",
+      "上に",
+      "助言"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "～によると",
+      "口座",
+      "能力",
+      "達成する"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "上に",
+      "大人",
+      "達成する",
+      "再び"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "事故",
+      "進歩",
+      "正確な",
+      "認める"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "正確な",
+      "達成する",
+      "実際の",
+      "習得する"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "利点",
+      "能力",
+      "できる",
+      "進歩"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "加える",
+      "習得する",
+      "適応する",
+      "正確な"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "同行する",
+      "助言",
+      "事故",
+      "正確な"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "同行する",
+      "実際の",
+      "感心する",
+      "上に"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "上に",
+      "適応する",
+      "認める",
+      "進歩"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "後で",
+      "約",
+      "達成する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "実際の",
+      "事故",
+      "同行する",
+      "事故"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "余裕がある",
+      "～によると",
+      "進歩",
+      "約"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "進歩",
+      "受け入れる",
+      "習得する",
+      "～によると"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "上に",
+      "後で",
+      "住所",
+      "再び"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "実際の",
+      "恐れて",
+      "感心する",
+      "影響する"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "感心する",
+      "大人",
+      "能力",
+      "口座"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "感心する",
+      "放棄する",
+      "利点",
+      "上に"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "大人",
+      "加える",
+      "進歩",
+      "上に"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "採用する",
+      "同行する",
+      "約",
+      "習得する"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "余裕がある",
+      "利点",
+      "事故",
+      "約"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "口座",
+      "調整する",
+      "後で",
+      "事故"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "放棄する",
+      "認める",
+      "採用する",
+      "感心する"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "利点",
+      "進歩",
+      "影響する",
+      "約"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "能力",
+      "感心する",
+      "適応する",
+      "採用する"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "影響する",
+      "認める",
+      "正確な",
+      "調整する"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "加える",
+      "余裕がある",
+      "適応する",
+      "習得する"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "適応する",
+      "影響する",
+      "採用する",
+      "正確な"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "達成する",
+      "余裕がある",
+      "適応する",
+      "約"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "受け入れる",
+      "実際の",
+      "影響する",
+      "調整する"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "事故",
+      "～によると",
+      "適応する",
+      "口座"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "住所",
+      "受け入れる",
+      "放棄する",
+      "後で"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "できる",
+      "感心する",
+      "実際の",
+      "再び"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "活動",
+      "できる",
+      "口座",
+      "影響する"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "利点",
+      "～によると",
+      "活動",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "進歩",
+      "能力",
+      "再び",
+      "正確な"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "達成する",
+      "採用する",
+      "余裕がある",
+      "事故"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "同行する",
+      "達成する",
+      "習得する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "後で",
+      "正確な",
+      "余裕がある",
+      "調整する"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "実際の",
+      "同行する",
+      "～によると",
+      "適応する"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "再び",
+      "適応する",
+      "大人",
+      "実際の"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "進歩",
+      "受け入れる",
+      "上に",
+      "～によると"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "住所",
+      "感心する",
+      "進歩",
+      "達成する"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "採用する",
+      "できる",
+      "大人",
+      "助言"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "認める",
+      "後で",
+      "進歩",
+      "後で"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "加える",
+      "能力",
+      "実際の",
+      "口座"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "同行する",
+      "同行する",
+      "正確な",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "約",
+      "感心する",
+      "事故",
+      "約"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "利点",
+      "実際の",
+      "加える",
+      "進歩"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "感心する",
+      "活動",
+      "受け入れる",
+      "上に"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "放棄する",
+      "影響する",
+      "後で",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "事故",
+      "実際の",
+      "認める",
+      "住所"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "調整する",
+      "後で",
+      "放棄する",
+      "住所"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "能力",
+      "上に",
+      "住所",
+      "再び"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "採用する",
+      "余裕がある",
+      "上に",
+      "住所"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "大人",
+      "約",
+      "約",
+      "加える"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "達成する",
+      "できる",
+      "利点",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "加える",
+      "上に",
+      "上に",
+      "助言"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "感心する",
+      "口座",
+      "恐れて",
+      "口座"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "上に",
+      "住所",
+      "上に",
+      "助言"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "適応する",
+      "正確な",
+      "進歩",
+      "利点"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "採用する",
+      "受け入れる",
+      "恐れて",
+      "住所"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "影響する",
+      "約",
+      "上に",
+      "調整する"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "放棄する",
+      "住所",
+      "上に",
+      "後で"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "大人",
+      "加える",
+      "約",
+      "住所"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "再び",
+      "適応する",
+      "大人",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "感心する",
+      "能力",
+      "できる",
+      "適応する"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "～によると",
+      "認める",
+      "余裕がある",
+      "活動"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "事故",
+      "余裕がある",
+      "同行する",
+      "調整する"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "習得する",
+      "認める",
+      "達成する",
+      "利点"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "認める",
+      "調整する",
+      "加える",
+      "助言"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "影響する",
+      "認める",
+      "実際の",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "調整する",
+      "調整する",
+      "加える",
+      "同行する"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "利点",
+      "事故",
+      "助言",
+      "加える"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "大人",
+      "再び",
+      "達成する",
+      "口座"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "恐れて",
+      "認める",
+      "住所",
+      "進歩"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "影響する",
+      "調整する",
+      "住所",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "認める",
+      "達成する",
+      "住所",
+      "達成する"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "活動",
+      "放棄する",
+      "余裕がある",
+      "再び"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "大人",
+      "実際の",
+      "活動",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "活動",
+      "感心する",
+      "約",
+      "加える"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "加える",
+      "再び",
+      "受け入れる",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "約",
+      "活動",
+      "住所",
+      "実際の"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "余裕がある",
+      "達成する",
+      "採用する",
+      "感心する"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "恐れて",
+      "助言",
+      "事故",
+      "口座"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "大人",
+      "達成する",
+      "採用する",
+      "約"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "放棄する",
+      "大人",
+      "受け入れる",
+      "達成する"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "活動",
+      "口座",
+      "受け入れる",
+      "再び"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "住所",
+      "活動",
+      "大人",
+      "大人"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "余裕がある",
+      "約",
+      "～によると",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "実際の",
+      "口座",
+      "認める",
+      "正確な"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "大人",
+      "～によると",
+      "能力",
+      "事故"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "同行する",
+      "進歩",
+      "受け入れる",
+      "認める"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "活動",
+      "認める",
+      "採用する",
+      "できる"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "実際の",
+      "活動",
+      "住所",
+      "助言"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "正確な",
+      "～によると",
+      "実際の",
+      "活動"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "助言",
+      "採用する",
+      "感心する",
+      "影響する"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "達成する",
+      "住所",
+      "事故",
+      "認める"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "事故",
+      "習得する",
+      "上に",
+      "調整する"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "後で",
+      "受け入れる",
+      "できる",
+      "事故"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "認める",
+      "助言",
+      "能力",
+      "進歩"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "進歩",
+      "調整する",
+      "認める",
+      "上に"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "認める",
+      "上に",
+      "余裕がある",
+      "適応する"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "同行する",
+      "感心する",
+      "再び",
+      "助言"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "習得する",
+      "約",
+      "再び",
+      "能力"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "達成する",
+      "約",
+      "認める",
+      "後で"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "採用する",
+      "達成する",
+      "受け入れる",
+      "調整する"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "能力",
+      "達成する",
+      "口座",
+      "正確な"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "口座",
+      "同行する",
+      "能力",
+      "正確な"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "恐れて",
+      "採用する",
+      "影響する",
+      "助言"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "恐れて",
+      "正確な",
+      "放棄する",
+      "認める"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "放棄する",
+      "影響する",
+      "約",
+      "能力"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "適応する",
+      "再び",
+      "感心する",
+      "事故"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "大人",
+      "能力",
+      "～によると",
+      "住所"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "再び",
+      "口座",
+      "利点",
+      "達成する"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "恐れて",
+      "進歩",
+      "習得する",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "同行する",
+      "できる",
+      "進歩",
+      "能力"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "大人",
+      "受け入れる",
+      "同行する",
+      "後で"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "調整する",
+      "利点",
+      "受け入れる",
+      "適応する"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "できる",
+      "利点",
+      "達成する",
+      "口座"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "放棄する",
+      "約",
+      "調整する",
+      "感心する"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "上に",
+      "同行する",
+      "進歩",
+      "達成する"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "後で",
+      "恐れて",
+      "感心する",
+      "大人"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "達成する",
+      "活動",
+      "上に",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "できる",
+      "加える",
+      "口座",
+      "後で"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "大人",
+      "感心する",
+      "余裕がある",
+      "正確な"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "実際の",
+      "大人",
+      "進歩",
+      "同行する"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "できる",
+      "受け入れる",
+      "習得する",
+      "事故"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "再び",
+      "能力",
+      "できる",
+      "活動"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "助言",
+      "適応する",
+      "約",
+      "～によると"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "後で",
+      "感心する",
+      "活動",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "利点",
+      "住所",
+      "影響する",
+      "助言"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "感心する",
+      "恐れて",
+      "正確な",
+      "できる"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "感心する",
+      "後で",
+      "助言",
+      "活動"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "能力",
+      "～によると",
+      "活動",
+      "上に"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "同行する",
+      "口座",
+      "口座",
+      "認める"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "大人",
+      "利点",
+      "達成する",
+      "加える"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "実際の",
+      "事故",
+      "放棄する",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "受け入れる",
+      "進歩",
+      "上に",
+      "大人"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "適応する",
+      "上に",
+      "適応する",
+      "習得する"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "感心する",
+      "適応する",
+      "事故",
+      "感心する"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "習得する",
+      "同行する",
+      "大人",
+      "利点"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "加える",
+      "受け入れる",
+      "恐れて",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "採用する",
+      "適応する",
+      "利点",
+      "同行する"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "～によると",
+      "再び",
+      "採用する",
+      "事故"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "事故",
+      "習得する",
+      "達成する",
+      "影響する"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "住所",
+      "活動",
+      "同行する",
+      "利点"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "再び",
+      "達成する",
+      "上に",
+      "認める"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "受け入れる",
+      "大人",
+      "能力",
+      "加える"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "認める",
+      "恐れて",
+      "～によると",
+      "正確な"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "利点",
+      "できる",
+      "調整する",
+      "加える"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "再び",
+      "約",
+      "同行する",
+      "大人"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "余裕がある",
+      "放棄する",
+      "上に",
+      "助言"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "助言",
+      "正確な",
+      "助言",
+      "採用する"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "再び",
+      "恐れて",
+      "適応する",
+      "感心する"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "能力",
+      "認める",
+      "正確な",
+      "できる"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "実際の",
+      "受け入れる",
+      "上に",
+      "実際の"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "再び",
+      "事故",
+      "採用する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "事故",
+      "加える",
+      "上に",
+      "後で"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "加える",
+      "～によると",
+      "調整する",
+      "正確な"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "調整する",
+      "受け入れる",
+      "利点",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "同行する",
+      "進歩",
+      "影響する",
+      "活動"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "住所",
+      "助言",
+      "正確な",
+      "正確な"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "事故",
+      "後で",
+      "大人",
+      "実際の"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "習得する",
+      "受け入れる",
+      "影響する",
+      "加える"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "上に",
+      "口座",
+      "影響する",
+      "習得する"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "習得する",
+      "正確な",
+      "能力",
+      "できる"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "上に",
+      "口座",
+      "適応する",
+      "～によると"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "できる",
+      "受け入れる",
+      "達成する",
+      "住所"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "同行する",
+      "上に",
+      "感心する",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "採用する",
+      "採用する",
+      "達成する",
+      "約"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "大人",
+      "大人",
+      "影響する",
+      "活動"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "助言",
+      "放棄する",
+      "事故",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "影響する",
+      "実際の",
+      "助言",
+      "事故"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "達成する",
+      "影響する",
+      "実際の",
+      "口座"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "放棄する",
+      "再び",
+      "認める",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "約",
+      "放棄する",
+      "受け入れる",
+      "約"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "後で",
+      "大人",
+      "同行する",
+      "習得する"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "利点",
+      "後で",
+      "恐れて",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "進歩",
+      "同行する",
+      "後で",
+      "上に"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "恐れて",
+      "活動",
+      "加える",
+      "できる"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "活動",
+      "感心する",
+      "事故",
+      "口座"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "影響する",
+      "同行する",
+      "習得する",
+      "大人"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "～によると",
+      "実際の",
+      "調整する",
+      "利点"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "影響する",
+      "後で",
+      "口座",
+      "事故"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "口座",
+      "活動",
+      "適応する",
+      "利点"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "利点",
+      "再び",
+      "助言",
+      "達成する"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "適応する",
+      "認める",
+      "事故",
+      "約"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "達成する",
+      "住所",
+      "進歩",
+      "再び"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "助言",
+      "恐れて",
+      "加える",
+      "採用する"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "影響する",
+      "大人",
+      "同行する",
+      "口座"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "認める",
+      "助言",
+      "習得する",
+      "調整する"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "事故",
+      "助言",
+      "達成する",
+      "加える"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "採用する",
+      "助言",
+      "実際の",
+      "調整する"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "余裕がある",
+      "再び",
+      "調整する",
+      "感心する"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "達成する",
+      "～によると",
+      "受け入れる",
+      "助言"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "適応する",
+      "助言",
+      "上に",
+      "認める"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "できる",
+      "事故",
+      "活動",
+      "正確な"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "適応する",
+      "採用する",
+      "影響する",
+      "調整する"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "習得する",
+      "後で",
+      "正確な",
+      "習得する"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "再び",
+      "採用する",
+      "放棄する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "加える",
+      "採用する",
+      "能力",
+      "助言"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "できる",
+      "余裕がある",
+      "正確な",
+      "事故"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "～によると",
+      "採用する",
+      "後で",
+      "後で"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "採用する",
+      "正確な",
+      "再び",
+      "後で"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "恐れて",
+      "加える",
+      "再び",
+      "進歩"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "放棄する",
+      "達成する",
+      "受け入れる",
+      "口座"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "認める",
+      "正確な",
+      "調整する",
+      "影響する"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "認める",
+      "正確な",
+      "利点",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "適応する",
+      "助言",
+      "適応する",
+      "できる"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "口座",
+      "住所",
+      "進歩",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "調整する",
+      "～によると",
+      "利点",
+      "住所"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "助言",
+      "活動",
+      "再び",
+      "利点"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "活動",
+      "事故",
+      "助言",
+      "影響する"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "加える",
+      "感心する",
+      "再び",
+      "後で"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "上に",
+      "同行する",
+      "～によると",
+      "達成する"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "上に",
+      "～によると",
+      "利点",
+      "住所"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "放棄する",
+      "正確な",
+      "同行する",
+      "適応する"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "利点",
+      "習得する",
+      "上に",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "採用する",
+      "～によると",
+      "利点",
+      "できる"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "利点",
+      "達成する",
+      "後で",
+      "能力"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "認める",
+      "放棄する",
+      "助言",
+      "正確な"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "恐れて",
+      "利点",
+      "後で",
+      "正確な"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "恐れて",
+      "上に",
+      "認める",
+      "能力"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "大人",
+      "認める",
+      "能力",
+      "習得する"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "口座",
+      "受け入れる",
+      "調整する",
+      "採用する"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "恐れて",
+      "能力",
+      "上に",
+      "同行する"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "達成する",
+      "進歩",
+      "同行する",
+      "助言"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "影響する",
+      "調整する",
+      "恐れて",
+      "できる"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "習得する",
+      "適応する",
+      "事故",
+      "進歩"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "できる",
+      "上に",
+      "後で",
+      "加える"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "受け入れる",
+      "上に",
+      "正確な",
+      "実際の"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "正確な",
+      "口座",
+      "大人",
+      "助言"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "利点",
+      "進歩",
+      "後で",
+      "習得する"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "加える",
+      "活動",
+      "事故",
+      "加える"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "利点",
+      "事故",
+      "大人",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "採用する",
+      "上に",
+      "できる",
+      "後で"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "～によると",
+      "できる",
+      "習得する",
+      "できる"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "約",
+      "活動",
+      "正確な",
+      "大人"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "受け入れる",
+      "正確な",
+      "調整する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "達成する",
+      "上に",
+      "～によると",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "余裕がある",
+      "採用する",
+      "再び",
+      "上に"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "能力",
+      "できる",
+      "放棄する",
+      "活動"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "～によると",
+      "再び",
+      "影響する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "大人",
+      "できる",
+      "正確な",
+      "感心する"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "適応する",
+      "住所",
+      "利点",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "進歩",
+      "同行する",
+      "能力",
+      "再び"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "後で",
+      "同行する",
+      "影響する",
+      "認める"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "適応する",
+      "影響する",
+      "～によると",
+      "習得する"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "事故",
+      "後で",
+      "受け入れる",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "適応する",
+      "適応する",
+      "調整する",
+      "能力"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "実際の",
+      "調整する",
+      "受け入れる",
+      "口座"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "採用する",
+      "利点",
+      "進歩",
+      "能力"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "上に",
+      "後で",
+      "加える",
+      "同行する"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "能力",
+      "事故",
+      "実際の",
+      "影響する"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "余裕がある",
+      "実際の",
+      "受け入れる",
+      "事故"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "助言",
+      "助言",
+      "再び",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "能力",
+      "加える",
+      "恐れて",
+      "利点"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "大人",
+      "助言",
+      "感心する",
+      "できる"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "恐れて",
+      "正確な",
+      "助言",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "後で",
+      "適応する",
+      "受け入れる",
+      "正確な"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "～によると",
+      "約",
+      "事故",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "利点",
+      "後で",
+      "習得する",
+      "適応する"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "進歩",
+      "恐れて",
+      "事故",
+      "正確な"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "できる",
+      "利点",
+      "活動",
+      "影響する"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "口座",
+      "調整する",
+      "口座",
+      "できる"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "能力",
+      "助言",
+      "利点",
+      "事故"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "採用する",
+      "助言",
+      "進歩",
+      "再び"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "できる",
+      "同行する",
+      "住所",
+      "認める"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "上に",
+      "受け入れる",
+      "適応する",
+      "同行する"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "口座",
+      "正確な",
+      "住所",
+      "後で"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "約",
+      "助言",
+      "加える",
+      "口座"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "上に",
+      "影響する",
+      "進歩",
+      "～によると"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "できる",
+      "適応する",
+      "大人",
+      "活動"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "活動",
+      "影響する",
+      "調整する",
+      "事故"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "再び",
+      "恐れて",
+      "実際の",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "感心する",
+      "住所",
+      "能力",
+      "約"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "実際の",
+      "同行する",
+      "達成する",
+      "能力"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "影響する",
+      "適応する",
+      "受け入れる",
+      "上に"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "習得する",
+      "感心する",
+      "再び",
+      "正確な"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "同行する",
+      "恐れて",
+      "影響する",
+      "加える"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "恐れて",
+      "習得する",
+      "習得する",
+      "大人"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "同行する",
+      "大人",
+      "後で",
+      "事故"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "採用する",
+      "住所",
+      "実際の",
+      "能力"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "口座",
+      "恐れて",
+      "後で",
+      "認める"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "影響する",
+      "習得する",
+      "実際の",
+      "口座"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "同行する",
+      "利点",
+      "受け入れる",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "認める",
+      "できる",
+      "～によると",
+      "助言"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "できる",
+      "上に",
+      "達成する",
+      "利点"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "上に",
+      "活動",
+      "加える",
+      "実際の"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "後で",
+      "余裕がある",
+      "できる",
+      "住所"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "大人",
+      "調整する",
+      "後で",
+      "習得する"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "加える",
+      "進歩",
+      "できる",
+      "助言"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "恐れて",
+      "能力",
+      "助言",
+      "感心する"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "利点",
+      "採用する",
+      "余裕がある",
+      "習得する"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "認める",
+      "後で",
+      "約",
+      "助言"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "習得する",
+      "約",
+      "同行する",
+      "能力"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "採用する",
+      "影響する",
+      "活動",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "～によると",
+      "余裕がある",
+      "影響する",
+      "習得する"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "能力",
+      "採用する",
+      "進歩",
+      "利点"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "～によると",
+      "約",
+      "受け入れる",
+      "正確な"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "認める",
+      "約",
+      "正確な",
+      "達成する"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "活動",
+      "活動",
+      "余裕がある",
+      "実際の"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "調整する",
+      "助言",
+      "感心する",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "調整する",
+      "大人",
+      "再び",
+      "再び"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "～によると",
+      "能力",
+      "活動",
+      "利点"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "再び",
+      "影響する",
+      "利点",
+      "達成する"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "加える",
+      "採用する",
+      "適応する",
+      "住所"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "～によると",
+      "約",
+      "できる",
+      "進歩"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "～によると",
+      "大人",
+      "進歩",
+      "採用する"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "活動",
+      "できる",
+      "調整する",
+      "住所"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "約",
+      "恐れて",
+      "上に",
+      "影響する"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "達成する",
+      "できる",
+      "利点",
+      "調整する"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "適応する",
+      "正確な",
+      "事故",
+      "習得する"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "能力",
+      "適応する",
+      "感心する",
+      "～によると"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "大人",
+      "住所",
+      "事故",
+      "加える"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "進歩",
+      "放棄する",
+      "口座",
+      "同行する"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "後で",
+      "事故",
+      "能力",
+      "助言"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "適応する",
+      "影響する",
+      "正確な",
+      "認める"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "約",
+      "進歩",
+      "後で",
+      "加える"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "大人",
+      "約",
+      "住所",
+      "習得する"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "余裕がある",
+      "約",
+      "助言",
+      "実際の"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "習得する",
+      "後で",
+      "達成する",
+      "上に"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "達成する",
+      "正確な",
+      "後で",
+      "進歩"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "調整する",
+      "再び",
+      "住所",
+      "利点"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "実際の",
+      "進歩",
+      "大人",
+      "できる"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "放棄する",
+      "住所",
+      "感心する",
+      "実際の"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "活動",
+      "事故",
+      "恐れて",
+      "認める"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "余裕がある",
+      "再び",
+      "感心する",
+      "適応する"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "受け入れる",
+      "～によると",
+      "採用する",
+      "達成する"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "実際の",
+      "習得する",
+      "放棄する",
+      "達成する"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "実際の",
+      "助言",
+      "適応する",
+      "できる"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "後で",
+      "恐れて",
+      "住所",
+      "感心する"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "受け入れる",
+      "恐れて",
+      "実際の",
+      "同行する"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "住所",
+      "恐れて",
+      "余裕がある",
+      "後で"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "進歩",
+      "習得する",
+      "約",
+      "約"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "活動",
+      "恐れて",
+      "上に",
+      "後で"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "適応する",
+      "同行する",
+      "大人",
+      "影響する"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "進歩",
+      "活動",
+      "達成する",
+      "できる"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "約",
+      "調整する",
+      "利点",
+      "活動"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "採用する",
+      "上に",
+      "放棄する",
+      "利点"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "調整する",
+      "感心する",
+      "再び",
+      "住所"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "できる",
+      "正確な",
+      "放棄する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "感心する",
+      "～によると",
+      "恐れて",
+      "同行する"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "利点",
+      "実際の",
+      "上に",
+      "加える"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "加える",
+      "後で",
+      "進歩",
+      "感心する"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "適応する",
+      "上に",
+      "利点",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "恐れて",
+      "習得する",
+      "余裕がある",
+      "加える"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "受け入れる",
+      "採用する",
+      "調整する",
+      "再び"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "余裕がある",
+      "認める",
+      "できる",
+      "感心する"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "感心する",
+      "正確な",
+      "認める",
+      "できる"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "影響する",
+      "できる",
+      "同行する",
+      "上に"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "感心する",
+      "放棄する",
+      "助言",
+      "上に"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "～によると",
+      "住所",
+      "調整する",
+      "加える"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "できる",
+      "適応する",
+      "大人",
+      "採用する"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "再び",
+      "適応する",
+      "感心する",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "認める",
+      "利点",
+      "後で",
+      "後で"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "採用する",
+      "～によると",
+      "できる",
+      "大人"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "～によると",
+      "恐れて",
+      "約",
+      "約"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "加える",
+      "能力",
+      "調整する",
+      "同行する"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "再び",
+      "余裕がある",
+      "認める",
+      "大人"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "達成する",
+      "できる",
+      "能力",
+      "調整する"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "調整する",
+      "適応する",
+      "大人",
+      "認める"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "後で",
+      "上に",
+      "習得する",
+      "活動"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "恐れて",
+      "採用する",
+      "習得する",
+      "加える"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "加える",
+      "余裕がある",
+      "後で",
+      "～によると"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "受け入れる",
+      "受け入れる",
+      "能力",
+      "採用する"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "大人",
+      "～によると",
+      "認める",
+      "進歩"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "習得する",
+      "～によると",
+      "影響する",
+      "上に"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "能力",
+      "実際の",
+      "大人",
+      "認める"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "認める",
+      "習得する",
+      "適応する",
+      "事故"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "達成する",
+      "できる",
+      "活動",
+      "利点"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "影響する",
+      "恐れて",
+      "達成する",
+      "事故"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "能力",
+      "恐れて",
+      "住所",
+      "助言"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "採用する",
+      "同行する",
+      "後で",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "習得する",
+      "後で",
+      "住所",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "後で",
+      "同行する",
+      "達成する",
+      "口座"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "事故",
+      "達成する",
+      "放棄する",
+      "再び"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "影響する",
+      "再び",
+      "加える",
+      "適応する"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "認める",
+      "再び",
+      "放棄する",
+      "口座"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "できる",
+      "口座",
+      "再び",
+      "事故"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "利点",
+      "習得する",
+      "放棄する",
+      "加える"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "後で",
+      "放棄する",
+      "事故",
+      "正確な"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "活動",
+      "恐れて",
+      "後で",
+      "習得する"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "上に",
+      "後で",
+      "助言",
+      "調整する"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "放棄する",
+      "後で",
+      "口座",
+      "上に"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "加える",
+      "約",
+      "活動",
+      "正確な"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "習得する",
+      "活動",
+      "調整する",
+      "同行する"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "利点",
+      "加える",
+      "能力",
+      "助言"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "正確な",
+      "大人",
+      "同行する",
+      "口座"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "約",
+      "住所",
+      "口座",
+      "習得する"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "進歩",
+      "事故",
+      "住所",
+      "助言"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "約",
+      "再び",
+      "感心する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "恐れて",
+      "事故",
+      "上に",
+      "口座"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "事故",
+      "後で",
+      "活動",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "調整する",
+      "習得する",
+      "習得する",
+      "進歩"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "受け入れる",
+      "採用する",
+      "助言",
+      "感心する"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "採用する",
+      "加える",
+      "影響する",
+      "活動"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "達成する",
+      "大人",
+      "恐れて",
+      "後で"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "受け入れる",
+      "再び",
+      "活動",
+      "事故"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "認める",
+      "助言",
+      "同行する",
+      "影響する"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "余裕がある",
+      "助言",
+      "～によると",
+      "正確な"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "同行する",
+      "影響する",
+      "習得する",
+      "～によると"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "調整する",
+      "進歩",
+      "大人",
+      "助言"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "感心する",
+      "調整する",
+      "利点",
+      "認める"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "できる",
+      "活動",
+      "大人",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "適応する",
+      "正確な",
+      "大人",
+      "受け入れる"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "大人",
+      "正確な",
+      "能力",
+      "調整する"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "能力",
+      "事故",
+      "～によると",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "調整する",
+      "認める",
+      "習得する",
+      "認める"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "利点",
+      "同行する",
+      "達成する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "できる",
+      "放棄する",
+      "実際の",
+      "同行する"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "同行する",
+      "事故",
+      "加える",
+      "～によると"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "放棄する",
+      "受け入れる",
+      "影響する",
+      "約"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "影響する",
+      "上に",
+      "再び",
+      "～によると"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "放棄する",
+      "後で",
+      "恐れて",
+      "認める"
+    ]
+  },
+  {
+    "word": "admire",
+    "correct": "感心する",
+    "choices": [
+      "住所",
+      "認める",
+      "感心する",
+      "進歩"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "上に",
+      "達成する",
+      "余裕がある",
+      "加える"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "上に",
+      "再び",
+      "助言",
+      "実際の"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "口座",
+      "約",
+      "正確な",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "助言",
+      "恐れて",
+      "同行する",
+      "事故"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "口座",
+      "事故",
+      "助言",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "住所",
+      "習得する",
+      "能力",
+      "習得する"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "活動",
+      "後で",
+      "大人",
+      "加える"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "認める",
+      "恐れて",
+      "達成する",
+      "大人"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "受け入れる",
+      "後で",
+      "恐れて",
+      "達成する"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "採用する",
+      "受け入れる",
+      "上に",
+      "実際の"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "住所",
+      "恐れて",
+      "調整する",
+      "住所"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "事故",
+      "認める",
+      "住所",
+      "加える"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "後で",
+      "適応する",
+      "加える",
+      "助言"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "影響する",
+      "できる",
+      "能力",
+      "習得する"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "約",
+      "放棄する",
+      "加える",
+      "調整する"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "できる",
+      "口座",
+      "約",
+      "約"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "余裕がある",
+      "助言",
+      "調整する",
+      "約"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "適応する",
+      "後で",
+      "～によると",
+      "採用する"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "実際の",
+      "活動",
+      "受け入れる",
+      "上に"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "大人",
+      "再び",
+      "口座",
+      "認める"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "大人",
+      "感心する",
+      "放棄する",
+      "調整する"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "余裕がある",
+      "再び",
+      "約",
+      "進歩"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "上に",
+      "採用する",
+      "助言",
+      "実際の"
+    ]
+  },
+  {
+    "word": "add",
+    "correct": "加える",
+    "choices": [
+      "放棄する",
+      "できる",
+      "余裕がある",
+      "加える"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "助言",
+      "大人",
+      "利点",
+      "できる"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "助言",
+      "影響する",
+      "能力",
+      "活動"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "認める",
+      "恐れて",
+      "住所",
+      "調整する"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "利点",
+      "恐れて",
+      "～によると",
+      "再び"
+    ]
+  },
+  {
+    "word": "adult",
+    "correct": "大人",
+    "choices": [
+      "大人",
+      "認める",
+      "加える",
+      "同行する"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "能力",
+      "採用する",
+      "加える",
+      "習得する"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "調整する",
+      "約",
+      "余裕がある",
+      "できる"
+    ]
+  },
+  {
+    "word": "adapt",
+    "correct": "適応する",
+    "choices": [
+      "恐れて",
+      "調整する",
+      "適応する",
+      "助言"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "利点",
+      "できる",
+      "余裕がある",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "適応する",
+      "活動",
+      "余裕がある",
+      "認める"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "住所",
+      "能力",
+      "利点",
+      "進歩"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "住所",
+      "できる",
+      "適応する",
+      "住所"
+    ]
+  },
+  {
+    "word": "actual",
+    "correct": "実際の",
+    "choices": [
+      "実際の",
+      "約",
+      "後で",
+      "採用する"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "進歩",
+      "加える",
+      "できる",
+      "認める"
+    ]
+  },
+  {
+    "word": "accept",
+    "correct": "受け入れる",
+    "choices": [
+      "受け入れる",
+      "能力",
+      "同行する",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "採用する",
+      "大人",
+      "進歩",
+      "正確な"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "後で",
+      "能力",
+      "加える",
+      "利点"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "同行する",
+      "大人",
+      "再び",
+      "上に"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "住所",
+      "活動",
+      "後で",
+      "習得する"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "適応する",
+      "口座",
+      "大人",
+      "正確な"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "上に",
+      "活動",
+      "採用する",
+      "能力"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "影響する",
+      "再び",
+      "放棄する",
+      "利点"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "～によると",
+      "採用する",
+      "達成する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "advantage",
+    "correct": "利点",
+    "choices": [
+      "利点",
+      "適応する",
+      "恐れて",
+      "影響する"
+    ]
+  },
+  {
+    "word": "above",
+    "correct": "上に",
+    "choices": [
+      "習得する",
+      "放棄する",
+      "達成する",
+      "上に"
+    ]
+  },
+  {
+    "word": "again",
+    "correct": "再び",
+    "choices": [
+      "影響する",
+      "再び",
+      "住所",
+      "適応する"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "受け入れる",
+      "約",
+      "能力",
+      "助言"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "同行する",
+      "進歩",
+      "正確な",
+      "能力"
+    ]
+  },
+  {
+    "word": "able",
+    "correct": "できる",
+    "choices": [
+      "後で",
+      "上に",
+      "できる",
+      "放棄する"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "適応する",
+      "活動",
+      "放棄する",
+      "感心する"
+    ]
+  },
+  {
+    "word": "adjust",
+    "correct": "調整する",
+    "choices": [
+      "採用する",
+      "感心する",
+      "調整する",
+      "影響する"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "住所",
+      "採用する",
+      "口座",
+      "約"
+    ]
+  },
+  {
+    "word": "achieve",
+    "correct": "達成する",
+    "choices": [
+      "同行する",
+      "余裕がある",
+      "～によると",
+      "達成する"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "能力",
+      "調整する",
+      "再び",
+      "正確な"
+    ]
+  },
+  {
+    "word": "account",
+    "correct": "口座",
+    "choices": [
+      "恐れて",
+      "口座",
+      "～によると",
+      "正確な"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "認める",
+      "適応する",
+      "口座",
+      "採用する"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "活動",
+      "受け入れる",
+      "再び",
+      "上に"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "進歩",
+      "達成する",
+      "正確な",
+      "できる"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "加える",
+      "再び",
+      "できる",
+      "習得する"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "約",
+      "大人",
+      "同行する",
+      "達成する"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "実際の",
+      "達成する",
+      "大人",
+      "後で"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "口座",
+      "進歩",
+      "住所",
+      "大人"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "～によると",
+      "正確な",
+      "住所",
+      "大人"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "採用する",
+      "利点",
+      "事故",
+      "実際の"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "正確な",
+      "習得する",
+      "～によると",
+      "認める"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "余裕がある",
+      "大人",
+      "大人",
+      "影響する"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "再び",
+      "大人",
+      "同行する",
+      "採用する"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "余裕がある",
+      "上に",
+      "住所",
+      "活動"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "事故",
+      "同行する",
+      "活動",
+      "影響する"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "採用する",
+      "同行する",
+      "助言",
+      "感心する"
+    ]
+  },
+  {
+    "word": "adopt",
+    "correct": "採用する",
+    "choices": [
+      "住所",
+      "採用する",
+      "進歩",
+      "後で"
+    ]
+  },
+  {
+    "word": "after",
+    "correct": "後で",
+    "choices": [
+      "利点",
+      "後で",
+      "正確な",
+      "正確な"
+    ]
+  },
+  {
+    "word": "acquire",
+    "correct": "習得する",
+    "choices": [
+      "習得する",
+      "恐れて",
+      "認める",
+      "適応する"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "同行する",
+      "影響する",
+      "～によると",
+      "感心する"
+    ]
+  },
+  {
+    "word": "advance",
+    "correct": "進歩",
+    "choices": [
+      "進歩",
+      "～によると",
+      "利点",
+      "習得する"
+    ]
+  },
+  {
+    "word": "afford",
+    "correct": "余裕がある",
+    "choices": [
+      "約",
+      "習得する",
+      "同行する",
+      "余裕がある"
+    ]
+  },
+  {
+    "word": "advice",
+    "correct": "助言",
+    "choices": [
+      "助言",
+      "調整する",
+      "約",
+      "口座"
+    ]
+  },
+  {
+    "word": "affect",
+    "correct": "影響する",
+    "choices": [
+      "事故",
+      "受け入れる",
+      "活動",
+      "影響する"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "～によると",
+      "感心する",
+      "助言",
+      "できる"
+    ]
+  },
+  {
+    "word": "according",
+    "correct": "～によると",
+    "choices": [
+      "余裕がある",
+      "影響する",
+      "～によると",
+      "正確な"
+    ]
+  },
+  {
+    "word": "accurate",
+    "correct": "正確な",
+    "choices": [
+      "助言",
+      "恐れて",
+      "正確な",
+      "習得する"
+    ]
+  },
+  {
+    "word": "address",
+    "correct": "住所",
+    "choices": [
+      "達成する",
+      "受け入れる",
+      "住所",
+      "約"
+    ]
+  },
+  {
+    "word": "abandon",
+    "correct": "放棄する",
+    "choices": [
+      "実際の",
+      "正確な",
+      "放棄する",
+      "恐れて"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "再び",
+      "できる",
+      "恐れて",
+      "できる"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "上に",
+      "加える",
+      "活動",
+      "事故"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "認める",
+      "できる",
+      "適応する",
+      "事故"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "大人",
+      "能力",
+      "活動",
+      "住所"
+    ]
+  },
+  {
+    "word": "accident",
+    "correct": "事故",
+    "choices": [
+      "できる",
+      "達成する",
+      "事故",
+      "能力"
+    ]
+  },
+  {
+    "word": "afraid",
+    "correct": "恐れて",
+    "choices": [
+      "恐れて",
+      "加える",
+      "放棄する",
+      "感心する"
+    ]
+  },
+  {
+    "word": "activity",
+    "correct": "活動",
+    "choices": [
+      "感心する",
+      "活動",
+      "再び",
+      "助言"
+    ]
+  },
+  {
+    "word": "about",
+    "correct": "約",
+    "choices": [
+      "再び",
+      "適応する",
+      "適応する",
+      "約"
+    ]
+  },
+  {
+    "word": "accompany",
+    "correct": "同行する",
+    "choices": [
+      "余裕がある",
+      "同行する",
+      "できる",
+      "大人"
+    ]
+  },
+  {
+    "word": "admit",
+    "correct": "認める",
+    "choices": [
+      "活動",
+      "認める",
+      "後で",
+      "加える"
+    ]
+  },
+  {
+    "word": "ability",
+    "correct": "能力",
+    "choices": [
+      "能力",
+      "口座",
+      "できる",
+      "後で"
+    ]
+  }
+]
